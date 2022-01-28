@@ -1,0 +1,24 @@
+{
+  "name": "simple-nodejs-rest-api-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefivestar/Simple-Nodejs-Rest-Api-Jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefivestar/Simple-Nodejs-Rest-Api-Jwt/issues"
+  },
+  "homepage": "https://github.com/codefivestar/Simple-Nodejs-Rest-Api-Jwt#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
